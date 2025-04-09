@@ -131,7 +131,6 @@ h1{
 
     background-image: url("images/hirono.jpeg");
     background-size: cover;
-    mask-image: linear-gradient(to left, rgb(255, 255, 255, 1) 50%, rgb(0, 0, 0, 0.01));
 }
 
 .name, .location{
